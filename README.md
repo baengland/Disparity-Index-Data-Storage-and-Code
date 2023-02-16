@@ -14,6 +14,8 @@ R Code used to run the analysis for both of the Disparity Indices
 
 Here is what each file in the repository does:
 
+COINrTesting.R - The actual code used in the creation of the Disparity Indices.
+
 ExampleDataFile.xlsx - Is a blank data file for others to use. It is set up with an explanation on how to use it, what each indicator means, and how it should be formatted. It also has the equations already built in, so data can be enetered immediately.
 
 ExampleMetaFile.xlsx - Is a blank meta file for others to use. It is formatted to meet the requirements for use in COINr. 
